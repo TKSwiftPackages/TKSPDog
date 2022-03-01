@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Animal",
+        "repositoryURL": "git@github.com:TKSwiftPackages/TKSPAnimal.git",
+        "state": {
+          "branch": null,
+          "revision": "88e5a85c012b6400f495fd6f054f9437f72dce38",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
